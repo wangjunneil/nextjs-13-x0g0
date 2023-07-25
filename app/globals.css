@@ -1,3 +1,9 @@
 * {
   font-size: 12px;
 }
+
+nav {
+  display: flex;
+  gap: 5px;
+  margin-bottom: 10px;
+}
